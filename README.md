@@ -67,5 +67,4 @@ O dataset utilizado (`DadosFinanceiros.xlsx`) contém informações fictícias, 
 
 ## 📬 Contato
 Se quiser conversar sobre este projeto ou saber mais sobre minha atuação na área de dados:
-- **GitHub:** [@SeuGitHub](https://github.com/seuusuario)
 - **Instagram:** [@transitandodados](https://instagram.com/transitandodados)
